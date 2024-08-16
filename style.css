@@ -1,0 +1,100 @@
+.custom-navbar .navbar-nav .nav-link {
+  color: purple;
+  font-weight: 600;
+}
+
+.custom-navbar .navbar-brand {
+  color: purple;
+  font-weight: 600;
+}
+
+.custom-navbar .btn-close {
+  color: purple;
+}
+
+#home {
+  padding: 60px 0;
+}
+
+#home .btn-primary {
+  background-color: rgb(149, 10, 229);
+  border-color: rgb(149, 10, 229);
+}
+
+#home .btn-secondary {
+  color: rgb(149, 10, 229);
+  background-color: white;
+  border-color: rgb(149, 10, 229);
+}
+
+#home img {
+  max-width: 100%;
+  height: auto;
+}
+
+#features {
+  padding: 60px 0;
+}
+
+#features h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #343a40;
+}
+
+#features h3 {
+  font-size: 1.75rem;
+  font-weight: 500;
+  color: #495057;
+}
+
+#features p {
+  color: #6c757d;
+}
+
+#features img {
+  max-width: 100%;
+  height: auto;
+}
+
+#features {
+  padding: 60px 0;
+}
+
+#features h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #343a40;
+}
+
+#features h3 {
+  font-size: 1.75rem;
+  font-weight: 500;
+  color: #495057;
+}
+
+#features p {
+  color: #6c757d;
+}
+
+.image-container {
+  background-color: purple;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 100%;
+}
+
+.img-oval {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+#product {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
