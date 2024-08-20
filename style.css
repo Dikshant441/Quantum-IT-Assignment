@@ -78,13 +78,13 @@
 }
 
 .image-container {
-  background-color: purple;
+  background-color: #6631f0;
   padding: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  width: 100%;
+  width: 85%;
 }
 
 .img-oval {
@@ -92,6 +92,19 @@
   max-width: 100%;
   height: auto;
 }
+
+#image-container1  {
+  background-color: #6631f0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 40%;
+}
+
+
+
 
 #product {
   display: flex;
